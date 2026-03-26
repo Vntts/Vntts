@@ -1,6 +1,4 @@
 <div align="center">
-
-  # Olá, eu sou o Gabriel Ventura! 👋
   
   [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Backend+Developer;Foco+em+Integra%C3%A7%C3%B5es;Desenvolvimento+Web)](https://git.io/typing-svg)
   
