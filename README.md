@@ -81,12 +81,12 @@ Sou um desenvolvedor apaixonado por **arquiteturas de alta performance**. Meu fo
 ## 📈 Estatísticas & Atividade
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=[SEU_USUARIO]&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=[SEU_USUARIO]&layout=compact&theme=tokyonight&hide=html,css" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=[Vntts]&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=[Vntts]&layout=compact&theme=tokyonight&hide=html,css" />
 </div>
 
 <div align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=[SEU_USUARIO]&theme=tokyonight&bg_color=0D1117&hide_border=true" />
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=[Vntts]&theme=tokyonight&bg_color=0D1117&hide_border=true" />
 </div>
 
 ---
