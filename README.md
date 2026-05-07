@@ -77,24 +77,3 @@ Sou um desenvolvedor apaixonado por **arquiteturas de alta performance**. Meu fo
 </div>
 
 ---
-
-## 📈 Estatísticas & Atividade
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=[Vntts]&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=[Vntts]&layout=compact&theme=tokyonight&hide=html,css" />
-</div>
-
-<div align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=[Vntts]&theme=tokyonight&bg_color=0D1117&hide_border=true" />
-</div>
-
----
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/quote?quote=Software%20is%20a%20great%20combination%20between%20artistry%20and%20engineering.&author=Bill%20Gates&theme=tokyonight" />
-</div>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=[Vntts]&color=00b4d8&style=flat-square&label=PROFILE+VIEWS" />
-</p>
