@@ -15,7 +15,9 @@
 <br/>
 
 ## 💫 Sobre Mim
-Sou um desenvolvedor apaixonado por **arquiteturas de alta performance**. Meu foco principal é o **Backend**, onde construo o 'motor' das aplicações, transformando fluxos complexos de dados em **sistemas escaláveis e resilientes** — sem abrir mão de criar **interfaces fluidas no Frontend**. Aliás, minha paixão por performance e engenharia vai além do código: nas horas vagas, sou um grande entusiasta do mundo automotivo e apaixonado por carros.
+Sou um desenvolvedor com foco em Backend e grande interesse por engenharia de software, arquitetura de sistemas e processamento de dados. Atualmente trabalho com integrações, automações e aplicações Full Stack, transformando processos complexos em soluções que apoiam a operação e a tomada de decisão.
+
+Tenho experiência prática com desenvolvimento web, ETL, bancos de dados e sistemas internos, enquanto aprofundo meus estudos em arquitetura de software e no ecossistema Java. Fora da tecnologia, sou apaixonado por carros e pelo universo da engenharia automotiva.
 
 - 🛠️ Desenvolvedor fullstack.
 - 🚀 Experiência na construção de pipelines **ETL**, **sites** e **sistemas web** de grande volume.
