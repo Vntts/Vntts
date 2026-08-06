@@ -12,6 +12,25 @@
   </div>
 </div>
 
+<div align="center">
+
+## 🌐 Portfólio Profissional
+
+<a href="https://gabrielventura-dev.vercel.app/" target="_blank">
+  <img src="https://img.shields.io/badge/🚀_Acessar_Portfólio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
+
+<br/><br/>
+
+**Conheça meus projetos, estudos de caso, arquitetura de sistemas e experiência em desenvolvimento de software.**
+
+🔗 https://gabrielventura-dev.vercel.app/
+
+</div>
+
+---
+
+
 <br/>
 
 ## 💫 Sobre Mim
