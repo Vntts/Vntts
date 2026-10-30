@@ -37,24 +37,26 @@ Outside of technology, I'm passionate about cars and automotive engineering.
 <div align="center">
   <table border="0">
     <tr>
-      <td align="center" width="150">
-        <img src="https://skillicons.dev/icons?i=nodejs,js,java,python" /><br/>
+      <td align="center" width="180">
+        <img src="https://skillicons.dev/icons?i=typescript,nodejs,express,java,spring" /><br/>
         <b>Backend</b>
       </td>
-      <td align="center" width="150">
-        <img src="https://skillicons.dev/icons?i=react,html,css" /><br/>
+      <td align="center" width="180">
+        <img src="https://skillicons.dev/icons?i=react,tailwind,html" /><br/>
         <b>Frontend</b>
       </td>
-      <td align="center" width="150">
-        <img src="https://skillicons.dev/icons?i=postgres,sqlite" /><br/>
-        <b>Databases</b>
+      <td align="center" width="180">
+        <img src="https://skillicons.dev/icons?i=postgres" /><br/>
+        <b>Database</b>
       </td>
-      <td align="center" width="150">
-        <img src="https://skillicons.dev/icons?i=git,docker,postman,vscode" /><br/>
-        <b>Tools</b>
+      <td align="center" width="180">
+        <img src="https://skillicons.dev/icons?i=docker,postman" /><br/>
+        <b>Tools & DevOps</b>
       </td>
     </tr>
   </table>
 </div>
+
+---
 
 ---
